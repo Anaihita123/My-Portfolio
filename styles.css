@@ -1,1 +1,17 @@
+*{
+    background-color: lavender;
+}
+
+
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    font-style:oblique;
+    font-size: 40px;
+}
+
+a{
+ font-size: large;
+}
 
