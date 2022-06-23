@@ -2,16 +2,20 @@
     background-color: lavender;
 }
 
-
-
-h1{
+.boxes{
+    display: inline-block;
     text-align: center;
-    text-decoration-line: underline;
-    font-style:oblique;
-    font-size: 40px;
+
 }
 
-a{
- font-size: large;
+.leftbox{
+    display: inline-block;
+    text-align: center;
+ 
+}
+
+.middlebox{
+    display: inline-block;
+    text-align: center;
 }
 
