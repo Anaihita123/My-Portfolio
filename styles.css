@@ -5,16 +5,37 @@
 .boxes{
     display: inline-block;
     text-align: center;
+    display: inline-block;
+    text-align: center;
+    background-color: #becef1;
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    padding: 0 20px 0 20px;  
 
 }
 
 .leftbox{
     display: inline-block;
     text-align: center;
+    background-color: #becef1;
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    padding: 0 20px 0 20px;  
  
 }
 
 .middlebox{
     display: inline-block;
     text-align: center;
+    background-color: #becef1;
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    padding: 0 20px 0 20px;   
 }
+
